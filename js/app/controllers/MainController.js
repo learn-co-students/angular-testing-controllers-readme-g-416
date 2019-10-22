@@ -1,6 +1,8 @@
 function MainController() {
-    this.name = 'Bill Gates';
+    this.name = 'Steve Jobs';
 }
+
+function addNumbers()
 
 angular
     .module('app')
