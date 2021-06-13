@@ -5,3 +5,7 @@ function MainController() {
 angular
     .module('app')
     .controller('MainController', MainController);
+
+function addNumbers(numberOne, numberTwo) {
+    return 4;
+}
